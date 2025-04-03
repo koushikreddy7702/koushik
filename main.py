@@ -29,3 +29,4 @@ def calculator():
         return "Invalid operator!"
 
 print(calculator())
+print("bye bye")
